@@ -69,3 +69,42 @@ Zakaria@Gen▒ve MINGW64 ~/devops_teli/vprofile (master)
 Zakaria@Gen▒ve MINGW64 ~/devops_teli/vprofile/vprofile-project (vp-rem)
 # $ ls
 ansible  files  Jenkinsfile  pom.xml  README.md  src
+
+Zakaria@Gen▒ve MINGW64 ~/devops_teli/vprofile/vprofile-project (vp-rem)
+# $ ls -al
+total 25
+drwxr-xr-x 1 Zakaria 197121    0 Mar  7 11:14 .
+drwxr-xr-x 1 Zakaria 197121    0 Mar  7 11:13 ..
+drwxr-xr-x 1 Zakaria 197121    0 Mar  7 11:14 .git
+drwxr-xr-x 1 Zakaria 197121    0 Mar  7 11:14 ansible
+drwxr-xr-x 1 Zakaria 197121    0 Mar  7 11:14 files
+-rw-r--r-- 1 Zakaria 197121 4057 Mar  7 11:14 Jenkinsfile
+-rw-r--r-- 1 Zakaria 197121 7522 Mar  7 11:14 pom.xml
+-rw-r--r-- 1 Zakaria 197121  542 Mar  7 11:14 README.md
+drwxr-xr-x 1 Zakaria 197121    0 Mar  7 11:14 src
+
+Zakaria@Gen▒ve MINGW64 ~/devops_teli/vprofile/vprofile-project (vp-rem)
+# $ git status
+On branch vp-rem
+Your branch is up to date with 'origin/vp-rem'.
+
+nothing to commit, working tree clean
+
+Zakaria@Gen▒ve MINGW64 ~/devops_teli/vprofile/vprofile-project (vp-rem)
+# $ git checkout local-setup
+Switched to a new branch 'local-setup'
+branch 'local-setup' set up to track 'origin/local-setup'.
+
+Zakaria@Gen▒ve MINGW64 ~/devops_teli/vprofile/vprofile-project (local-setup)
+# $ ls
+ansible  Jenkinsfile  pom.xml  README.md  src  vagrant
+
+Zakaria@Gen▒ve MINGW64 ~/devops_teli/vprofile/vprofile-project (local-setup)
+# $ cd vagrant
+
+Zakaria@Gen▒ve MINGW64 ~/devops_teli/vprofile/vprofile-project/vagrant (local-setup)
+# $ ls
+Automated_provisioning  Automated_provisioning_MacOSM1  Manual_provisioning  Manual_provisioning_MacOSM1
+
+Zakaria@Gen▒ve MINGW64 ~/devops_teli/vprofile/vprofile-project/vagrant (local-setup)
+$
