@@ -108,3 +108,13 @@ Automated_provisioning  Automated_provisioning_MacOSM1  Manual_provisioning  Man
 
 Zakaria@Gen▒ve MINGW64 ~/devops_teli/vprofile/vprofile-project/vagrant (local-setup)
 $
+
+
+Zakaria@Gen▒ve MINGW64 ~/devops_teli/vprofile/vprofile-project/vagrant/Manual_provisioning (local-setup)
+# $ vagrant plugin install vagrant-hostmanager
+
+# $ vagrant plugin install vagrant-hostmanager
+Installing the 'vagrant-hostmanager' plugin. This can take a few minutes...
+Fetching vagrant-hostmanager-1.8.9.gem
+Installed the plugin 'vagrant-hostmanager (1.8.9)'!
+
